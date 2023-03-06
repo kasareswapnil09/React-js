@@ -1,6 +1,6 @@
-# React-js
+# React-js- LOGIN AND SIGN UP PAGE WITH USER DETAILS  with UNIT Testing Using the JEST
 React js Related project
-React js project:-  LOGIN AND SIGN UP PAGE WITH USER DETAILS  with UNIT Testing Using the
+React js project:-  LOGIN AND SIGN UP PAGE WITH USER DETAILS  with UNIT Testing Using the JEST
 
 SPECIFICATION:-
 1.There using of React Js used creating Sign In and Sign Up page with connected to local storage and Connected to Json Server.Also provided  error handling,validation of form ,authentication.when creating application page using devtools debugging tools for find the error in the code
