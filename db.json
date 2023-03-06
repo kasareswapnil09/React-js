@@ -1,0 +1,61 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "swapnil",
+      "email": "swapnil@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": 2,
+      "name": "Rajesh",
+      "email": "Rajesh@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": 3,
+      "name": "swapnil3",
+      "email": "swapnil3@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": 4,
+      "name": "Sumita",
+      "email": "Sumita@gmail.com",
+      "password": "56789"
+    },
+    {
+      "email": "smriti@gmail.com",
+      "password": "123456",
+      "id": 5
+    },
+    {
+      "name": "sumati",
+      "date": "2023-02-21",
+      "email": "sumati@gmail.com",
+      "password": "123456",
+      "id": 6
+    },
+    {
+      "name": "sumati2",
+      "date": "2023-02-21",
+      "email": "sumati2@gmail.com",
+      "password": "123456",
+      "id": 7
+    },
+    {
+      "name": "smriti3",
+      "date": "2023-02-23",
+      "email": "smriti3@gmail.com",
+      "password": "123456",
+      "id": 8
+    },
+    {
+      "name": "smriti4",
+      "date": "2023-02-23",
+      "email": "smriti4@gmail.com",
+      "password": "123456",
+      "id": 9
+    }
+  ]
+}
